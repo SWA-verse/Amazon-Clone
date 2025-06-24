@@ -1,4 +1,0 @@
-<?php
-echo "<h1>hello</h1>";
-echo "<h2>hello</h2>";
-?>
